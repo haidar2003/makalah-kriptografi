@@ -4,7 +4,7 @@ Muhammad Rafi Haidar
 
 # Cara menjalankan
 1. Clone repository
-2. Unduh semua library yang dibutuhkan
+2. Unduh semua library yang dibutuhkan dengan "pip install [nama library]
 3. Buka terminal di direktori dan pastikan Python telah terinstall di mesin
 4. Jalankan "Python main.py"
 
